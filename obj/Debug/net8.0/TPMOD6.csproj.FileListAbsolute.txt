@@ -1,0 +1,15 @@
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\TPMOD6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\TPMOD6.AssemblyInfoInputs.cache
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\TPMOD6.AssemblyInfo.cs
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\TPMOD6.csproj.CoreCompileInputs.cache
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\TPMOD6.sourcelink.json
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\bin\Debug\net8.0\TPMOD6.exe
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\bin\Debug\net8.0\TPMOD6.deps.json
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\bin\Debug\net8.0\TPMOD6.runtimeconfig.json
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\bin\Debug\net8.0\TPMOD6.dll
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\bin\Debug\net8.0\TPMOD6.pdb
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\TPMOD6.dll
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\refint\TPMOD6.dll
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\TPMOD6.pdb
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\TPMOD6.genruntimeconfig.cache
+D:\Kuyliah\Semester 4\KPL TP\TPMOD6\TPMOD6\obj\Debug\net8.0\ref\TPMOD6.dll
